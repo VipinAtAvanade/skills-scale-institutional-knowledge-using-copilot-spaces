@@ -66,4 +66,5 @@ _Questions? Feedback? Raise an issue or suggest an improvement!_
 
 ---
 
-<!-- This README was generated in response to [issue #2](https://github.com/VipinAtAvanade/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2). -->
+<!-- This README was generated in response to [issue #2](https://github.com/VipinAtAvanade/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2).
+ -->
